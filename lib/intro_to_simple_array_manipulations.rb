@@ -1,5 +1,4 @@
 def using_concat(arrays)
-  array = array
   new_array = array.concat
 end
 
